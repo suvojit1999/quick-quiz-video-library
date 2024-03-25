@@ -1,0 +1,23 @@
+
+dd {
+    display: flex;
+    justify-content: space-between;
+    overflow-x: auto; /* Add scrollbar if the videos overflow the container */
+    }
+
+
+span{
+    padding: 3px;
+    }
+
+
+#audio span{
+    display: flex;
+    justify-content: space-between;
+    overflow-x: auto;
+    width: 100%;
+}
+
+li{
+    padding: 3px;
+}
